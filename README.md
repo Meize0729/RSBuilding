@@ -201,7 +201,7 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 
 ## Contact
 
-If you have any other questions❓, please contact wmz20000729@buaa.edu.com in time 👬.
+If you have any other questions❓, please contact wmz20000729@buaa.edu.cn in time 👬.
 
 I apologize, the code we provide has not been thoroughly optimized. We will continue to refine it.
 
