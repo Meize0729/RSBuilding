@@ -7,7 +7,7 @@
     </p>
 </div>
 
-[![GitHub stars](https://badgen.net/github/stars/Meize0729/RSBuilding)](https://github.com/KyanChen/RSBuilding)
+[![GitHub stars](https://badgen.net/github/stars/Meize0729/RSBuilding)](https://github.com/Meize0729/RSBuilding)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.07564-b31b1b.svg)](http://arxiv.org/abs/2403.07564)
 
