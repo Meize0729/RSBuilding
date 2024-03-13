@@ -1,0 +1,1 @@
+# $data_dir/AerialImageDataset/train.txt

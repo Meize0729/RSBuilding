@@ -1,0 +1,7 @@
+# You should add which data you want to use for pretraining
+# $data_dir/BANDON/train_bx.txt
+# $data_dir/BANDON/train_bx.txt
+# $data_dir/whubuilding/train.txt
+# $data_dir/AerialImageDataset/train.txt
+# $data_dir/Levir-CD/train.txt
+# $data_dir/S2Looking/train.txt

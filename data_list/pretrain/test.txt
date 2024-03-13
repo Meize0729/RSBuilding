@@ -1,0 +1,6 @@
+# $data_dir/BANDON/test_bx.txt
+# $data_dir/BANDON/test_cd.txt
+# $data_dir/whubuilding/test.txt
+# $data_dir/AerialImageDataset/val.txt
+# $data_dir/Levir-CD/test.txt
+# $data_dir/S2Looking/test.txt
