@@ -27,6 +27,8 @@ If you find this project helpful, please give us a star ⭐️, your support is 
 
 ## Update Log
 
+🌟 **2024.03.23** Release pre-trained weights with Swin-T and ViT-B as the backbone, available through Baidu Netdisk
+
 🌟 **2024.03.13** Release the source code.
 
 🌟 **2024.03.12** Updated the paper content, see [Arxiv](http://arxiv.org/abs/2403.07564) for details.
@@ -145,7 +147,7 @@ sh ./tools/dist_train.sh configs_pretrain/xxx.py ${GPU_NUM}  # xxx.py is the con
 
 ### Finetune
 
-**Step1**: Download the pre-trained model from following link: [Baidu NetDisk]() and [Google Drive](). If you use your own pre-trained weights, you can ignore the above steps. But we are sorry, we are not yet able to release our pre-trained weights publicly.
+**Step1**: Download the pre-trained model from following link: [Baidu NetDisk](https://pan.baidu.com/s/1O0fsSV3slj4z85blP0NvGw?pwd=rsmz) (The access code: rsmz). If you use your own pre-trained weights, you can ignore the above steps. But we are sorry, we are not yet able to release all pre-trained weights publicly.
 
 **❗️Step2❗️**: After downloading the pre-trained weights, you need to replace **Line 33** in `configs_finetune/***/xxx.py` with the specific path. Meanwhile, change the **Line 41** to the location where you want to save the training logs and weights.
 
