@@ -60,6 +60,7 @@ train_dataloader = dict(
     batch_size=bs,
     num_workers=num_workers,
     persistent_workers=persistent_workers,
+    dataset=train_dataset,
 )
 
 val_dataloader = dict(
