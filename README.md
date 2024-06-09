@@ -3,7 +3,7 @@
         RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model
     </h2>
     <p>
-        Mingze Wang, <a href="https://github.com/KyanChen">Keyan Chen</a>, Lili Su, Cilin Yan, Sheng Xu, Haotian Zhang, Pengcheng Yuan, Xiaolong Jiang and Baochang Zhang<sup>*</sup>
+        Mingze Wang, Lili Su, Cilin Yan, Sheng Xu, Haotian Zhang, Pengcheng Yuan, Xiaolong Jiang and Baochang Zhang<sup>*</sup>
     </p>
 </div>
 
