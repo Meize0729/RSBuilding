@@ -27,6 +27,8 @@ If you find this project helpful, please give us a star ⭐️, your support is 
 
 ## Update Log
 
+🌟 **2024.08.08** Great news! Our paper has been accepted by TGRS. Additionally, we have released pre-trained weights with Swin-B and ViT-L as the backbone, available through Baidu Netdisk.
+
 🌟 **2024.03.23** Release pre-trained weights with Swin-T and ViT-B as the backbone, available through Baidu Netdisk
 
 🌟 **2024.03.13** Release the source code.
